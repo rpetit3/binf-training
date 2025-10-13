@@ -25,7 +25,7 @@ conda activate binf-training
 Download the script and make it executable:
 
 ```
-wget -O clean-the-house https://raw.githubusercontent.com/rpetit3/binf-training/main/command-line/clean-the-house/clean-the-house.py
+wget -O clean-the-house https://raw.githubusercontent.com/rpetit3/binf-training/refs/heads/main/command-line/clean-the-house/clean-the-house.py
 chmod 755 clean-the-house
 clean-the-house --version
 ```
